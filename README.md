@@ -13,6 +13,8 @@ This script will angrily look for folders named "homework" that have a "package.
 
 ![Screenshot](./screenshots/installDependencies.png)
 
+PS: You can go look for the actual logs on each `homework/dependencies.log` and `homework/dependencies.err`
+
 ---
 
 ### [testEverything.sh](./testEverything.sh)
